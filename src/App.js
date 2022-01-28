@@ -5,6 +5,8 @@ import { taco } from './TacomaList/Tacoma';
 import TacomaList from './TacomaList/TacomaList';
 import { hero } from './Hero/Hero';
 import HeroList from './Hero/HeroList';
+import { blog } from './Blog/Blog';
+import BlogList from './Blog/BlogList';
 // import your arrays here
 
 function App() {
