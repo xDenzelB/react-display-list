@@ -3,6 +3,8 @@ import { sports } from './SportsList/Sports';
 import SportsList from './SportsList/SportsList';
 import { taco } from './TacomaList/Tacoma';
 import TacomaList from './TacomaList/TacomaList';
+import { hero } from './Hero/Hero';
+import HeroList from './Hero/HeroList';
 // import your arrays here
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
       <SportsList sports={sports} />
 
       <TacomaList tacoma={taco} />
+
+      <HeroList hero={hero} />
     </div>
   );
 }

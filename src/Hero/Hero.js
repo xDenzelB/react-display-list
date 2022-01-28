@@ -4,7 +4,7 @@ export const hero = [
     location: 'New-York',
     superpower: 'Spider abilities',
     alterEgo: {
-      name: 'Peter Parker',
+      identity: 'Peter Parker',
       job: 'Photographer'
     }
   },
@@ -13,7 +13,7 @@ export const hero = [
     location: 'Gotham',
     superpower: 'Master of martial arts',
     alterEgo: {
-      name: 'Bruce Wayne',
+      identity: 'Bruce Wayne',
       job: 'CEO of wayne enterprise'
     }
   },
@@ -22,7 +22,7 @@ export const hero = [
     location: 'Chicago',
     superpower: 'Super strength, flight, and durability',
     alterEgo: {
-      name: 'Mark Grayson',
+      identity: 'Mark Grayson',
       job: 'Student'
     }
   }
