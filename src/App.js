@@ -18,6 +18,8 @@ function App() {
       <TacomaList tacoma={taco} />
 
       <HeroList hero={hero} />
+
+      <BlogList blog={blog} />
     </div>
   );
 }

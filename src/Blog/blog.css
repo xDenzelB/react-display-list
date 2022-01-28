@@ -1,14 +1,14 @@
-.hero-item {
+.blog-item {
     margin: 20px;
     width: 500px;
     border: solid 2px black;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgb(216, 159, 159);
- 
+    background-color: rgb(173, 173, 173);
+
 }
 
-.hero-list {
+.blog-list {
     display: flex;
     justify-content: center;
     align-items: center;

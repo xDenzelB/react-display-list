@@ -11,3 +11,10 @@
 .tacoma-item img {
     width: 200px;
 }
+
+.tacoma-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
